@@ -1,0 +1,27 @@
+{
+  "name": "node.mongodb",
+  "version": "1.0.0",
+  "description": "* Node.js + MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js localhost 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoAchon/Node.MongoDb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoAchon/Node.MongoDb/issues"
+  },
+  "homepage": "https://github.com/BrunoAchon/Node.MongoDb#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "mongodb": "^4.4.1",
+    "nodemon": "^2.0.15"
+  }
+}
