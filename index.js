@@ -27,6 +27,4 @@ app.use(express.static('public'))
 // pg inicial
 app.use('/products', productsRoutes)
 
-
-
 app.listen(3000)

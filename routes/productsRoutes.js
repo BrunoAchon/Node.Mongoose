@@ -9,8 +9,8 @@ router.get('/create', ProductController.createProduct)
 
 router.post('/remove/:id', ProductController.removeProdutctPost)
 
-router.get('/edit/:id', ProductController.editProduct)
-router.post('/edit', ProductController.editProductPost)
+ router.get('/edit/:id', ProductController.editProduct)
+ router.post('/edit', ProductController.editProductPost)
 
 
 router.get('/:id', ProductController.getProduct)
