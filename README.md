@@ -1,7 +1,7 @@
 # Node.Mongoose
     
 * Node.js + Mongoose
-
+http://localhost:3000/products 
 
 ## Ferramentas necessárias
 * MongoDb Community Server 
