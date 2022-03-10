@@ -1,6 +1,6 @@
-# Node.MongoDb
+# Node.Mongoose
     
-* Node.js + MongoDb 
+* Node.js + Mongoose
 
 
 ## Ferramentas necessárias
